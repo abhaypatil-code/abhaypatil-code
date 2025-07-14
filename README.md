@@ -1,66 +1,91 @@
-# 👋 Hi, I'm Abhay Patil
-
-🎓 Aspiring Software Developer | Full-Stack & AI/ML Enthusiast | Economics & Finance Minor
-
-I'm a Computer Science undergrad at **JSS Academy of Technical Education, Bengaluru** with a strong foundation in CS fundamentals and a growing passion for building impactful software. I enjoy working across the stack, exploring intelligent systems, and contributing to innovative solutions.
-
----
-
-## 🔧 Tech Stack & Skills
-
-**Languages:**  
-`C` `C++` `Python` `Java` `JavaScript`
-
-**Web Development:**  
-`HTML` `CSS` `React.js` `Node.js` `Express.js` `AJAX`
-
-**Databases & Tools:**  
-`MySQL` `MongoDB` `Git` `GitHub` `VS Code` `Docker` `Postman`
-
-**Cloud Platforms:**  
-`AWS (S3, Lambda, DynamoDB, API Gateway, CloudFront, Step Functions)`
-
-**AI/ML & Data:**  
-`scikit-learn` `Computer Vision` `Neural Networks`  
-`Prompt Engineering` `LangChain` `Hugging Face` `Transformers` `t-SNE` `LLMs`
+<h1 align="center">Hi, I'm Abhay Patil 👋</h1>
+<p align="center">
+  <em>Software Developer | Cloud Enthusiast | AI/ML Explorer</em><br/>
+  <a href="mailto:abhaypatilwork@gmail.com">📧 abhaypatilwork@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/abhaypatil014/">💼 LinkedIn</a> • 
+  <a href="https://github.com/abhaypatil-code">💻 GitHub</a>
+</p>
 
 ---
 
-## 🚀 Projects
+### 🧑‍💻 About Me
 
-### 📍 Geo-Tagged Incident Reporting System  
-A real-time web platform where users can report incidents with location data and images. Admins monitor activity via interactive maps.  
-**Tech:** Python, Flask, SQLite, JavaScript, Folium
-
-### 📈 Stock Market Visualization & Prediction  
-Desktop app for analyzing Indian stock data and forecasting trends using ARIMA & Prophet models.  
-**Tech:** Python, scikit-learn, Prophet, Alpha Vantage API, Matplotlib
-
-### 💰 Secure Expense Tracker & Banking System  
-A finance management tool with login, tracking, and dynamic data visualization.  
-**Tech:** Python, Tkinter, CSV, Matplotlib
-
-### ☁️ Cloud-Based Note Keeper  
-Serverless CRUD notes app hosted on AWS S3 using Lambda, API Gateway, and DynamoDB.  
-**Tech:** JavaScript, AWS, HTML/CSS
+I'm an aspiring software developer currently pursuing a B.E. in Computer Science & Engineering at JSS Academy of Technical Education, Bengaluru, with a minor in Economics and Finance. My focus lies in building impactful software solutions using full-stack technologies, cloud infrastructure, and machine learning models.
 
 ---
 
-## 🎯 Leadership & Involvement
+### ⚙️ Tech Stack
 
-- 👨‍💻 Leading a 4-member Final Year Project team using agile and Git-based workflows  
-- 🧠 Participated in national hackathons — rapid prototyping, tech stack design  
-- 🎤 University-level debater with skills in public speaking & argumentation  
-- 🎓 Contributor to CS department showcases and peer learning events  
-
----
-
-## 📫 Let's Connect
-
-📧 [abhaypatilwork@gmail.com](mailto:abhaypatilwork@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhaypatil014/)  
-💻 [GitHub](https://github.com/abhaypatil-code)
+| Domain                  | Technologies                                                                 |
+|-------------------------|------------------------------------------------------------------------------|
+| **Languages**           | `Python`, `C++`, `Java`, `JavaScript`, `C`                                   |
+| **Web Development**     | `React.js`, `Node.js`, `Express.js`, `HTML`, `CSS`, `AJAX`                   |
+| **Databases & Tools**   | `MySQL`, `MongoDB`, `Docker`, `Git`, `GitHub`, `VS Code`, `Postman`          |
+| **Cloud & DevOps**      | `AWS (S3, Lambda, API Gateway, DynamoDB, CloudFront, Step Functions)`        |
+| **ML & GenAI**          | `scikit-learn`, `LangChain`, `Transformers`, `Hugging Face`, `Word2Vec`, `LLMs` |
+| **Visualization**       | `Matplotlib`, `Folium`, `Tkinter`                                            |
 
 ---
 
-_Thanks for stopping by! 🚀 Feel free to check out my repositories and drop a message if you'd like to collaborate._
+### 🚀 Featured Projects
+
+Here are some of the projects I’ve built and actively maintained. Each project focuses on real-world applicability, clean architecture, and open-source collaboration.
+
+#### 🔹 [Geo-Tagged Incident Reporting System](https://github.com/abhaypatil-code/geo-tagged-incident-reporting)
+> Web-based platform to report and visualize real-time geo-tagged incidents on a dynamic map interface  
+🛠️ **Tech Stack**: Python, Flask, SQLite, Folium, JavaScript  
+📌 **Features**: Admin dashboard, live map updates, secure user auth
+
+---
+
+#### 🔹 [Stock Market Visualization & Prediction Tool](https://github.com/abhaypatil-code/stock-market-predictor)
+> A desktop tool to analyze and forecast Indian stock data using ARIMA and Prophet  
+🛠️ **Tech Stack**: Python, scikit-learn, Prophet, Alpha Vantage API, Matplotlib  
+📌 **Features**: Real-time data integration, prediction visualizations, portfolio simulation
+
+---
+
+#### 🔹 [Secure Expense Tracker and Banking System](https://github.com/abhaypatil-code/secure-expense-tracker)
+> Personal finance tracker with encrypted access and graphical reports  
+🛠️ **Tech Stack**: Python, Tkinter, CSV, Matplotlib  
+📌 **Features**: Auth system, chart-based analysis, lightweight design
+
+---
+
+#### 🔹 [Cloud-Based Note Keeper](https://github.com/abhaypatil-code/cloud-note-keeper)
+> Serverless CRUD-based note-taking app built on AWS  
+🛠️ **Tech Stack**: AWS Lambda, S3, DynamoDB, API Gateway, HTML/CSS, JS  
+📌 **Features**: Full serverless architecture, role-based IAM access
+
+---
+
+### 🏆 Highlights
+
+- 📚 Minor in **Economics & Finance** to complement CS expertise
+- 👨‍💻 Led a **4-member final year project team**, managing sprints and Git-based workflows
+- 🧠 National-level hackathon contributor — from ideation to MVP under pressure
+- 🎤 University-level **debater and presenter** with a flair for clear technical communication
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaypatil-code&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaypatil-code&theme=radical" width="49%"/>
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+If you’re working on something exciting or want to collaborate, feel free to reach out.
+
+- 💌 Email: [abhaypatilwork@gmail.com](mailto:abhaypatilwork@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/abhaypatil014](https://www.linkedin.com/in/abhaypatil014/)
+- 🌐 Portfolio (coming soon): `abhaypatil.dev`
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+
