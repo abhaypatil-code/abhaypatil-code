@@ -1,63 +1,66 @@
 # 👋 Hi, I'm Abhay Patil
 
-🎓 **Computer Science Undergrad | Software Developer | AI & GenAI Enthusiast**
+🎓 Aspiring Software Developer | Full-Stack & AI/ML Enthusiast | Economics & Finance Minor
 
-I'm an aspiring Software Developer currently pursuing my B.E. in Computer Science at JSS Academy of Technical Education, Bengaluru. With a solid foundation in core CS concepts and a passion for building full-stack and AI-driven applications, I enjoy creating impactful projects that blend creativity with functionality.
-
----
-
-## 💼 Projects
-
-### 📊 [Stock Market Visualization & Prediction](https://github.com/abhaypatil-code/stock-forecasting)
-Built interactive dashboards using Indian stock market data (e.g., NIFTY, TCS) with **real-time plots** and **predictive models** like ARIMA and Prophet. Designed a portfolio simulator using `Chart.js`.
-
-### 📍 [Geo-Tagged Complaint Reporter](https://github.com/abhaypatil-code/geo-complaint-reporter)
-Civic issue reporting platform using **MERN Stack** & `Leaflet.js` with **location tagging** and **role-based access** for citizens and admins. Real-time issue tracking powered by MongoDB.
-
-### 🧠 [AI-Powered Document Summarizer](https://github.com/abhaypatil-code/doc-summarizer)
-Summarizes academic PDFs using **GenAI + NLP**. Built with `spaCy` and OpenAI API, includes file upload, toggleable summarization, and deployed on Render.
-
-### 📅 [Personalized Study Planner (GenAI)](https://github.com/abhaypatil-code/genai-study-planner)
-Study schedule generator using **GPT prompts**, goals, and deadlines. Features JWT auth, real-time database via MongoDB Atlas.
+I'm a Computer Science undergrad at **JSS Academy of Technical Education, Bengaluru** with a strong foundation in CS fundamentals and a growing passion for building impactful software. I enjoy working across the stack, exploring intelligent systems, and contributing to innovative solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack & Skills
 
-**Languages:** C, C++, Python, Java, JavaScript  
-**Web:** HTML, CSS, React.js, Node.js, Express.js, AJAX  
-**Database:** MySQL, MongoDB  
-**Dev Tools:** Git, GitHub, VS Code, Postman, Docker  
-**Cloud:** AWS (S3, Lambda, DynamoDB, CloudFront, Step Functions, API Gateway)  
-**AI/ML:** Scikit-learn, Computer Vision, Neural Networks  
-**GenAI/NLP:** LangChain, Hugging Face, Cohere, Transformers, Word2Vec, t-SNE
+**Languages:**  
+`C` `C++` `Python` `Java` `JavaScript`
 
----
+**Web Development:**  
+`HTML` `CSS` `React.js` `Node.js` `Express.js` `AJAX`
 
-## 📚 Education
+**Databases & Tools:**  
+`MySQL` `MongoDB` `Git` `GitHub` `VS Code` `Docker` `Postman`
 
-**B.E. in Computer Science and Engineering**  
-*JSS Academy of Technical Education, Bengaluru (2022–2026)*  
-📈 CGPA: 8.62 / 10  
-🔎 Minors in *Economics and Finance*
+**Cloud Platforms:**  
+`AWS (S3, Lambda, DynamoDB, API Gateway, CloudFront, Step Functions)`
 
----
-
-## 🌟 Leadership & Involvement
-
-- Leading a 4-member team on the Final Year Project with Agile practices.
-- Hackathon contributor – idea validation, rapid prototyping, and tech stack planning.
-- University-level debater and peer learning facilitator in CS department.
+**AI/ML & Data:**  
+`scikit-learn` `Computer Vision` `Neural Networks`  
+`Prompt Engineering` `LangChain` `Hugging Face` `Transformers` `t-SNE` `LLMs`
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Projects
 
-- 📧 [abhaypatilwork@gmail.com](mailto:abhaypatilwork@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhaypatil014/)
-- 💻 [GitHub](https://github.com/abhaypatil-code)
+### 📍 Geo-Tagged Incident Reporting System  
+A real-time web platform where users can report incidents with location data and images. Admins monitor activity via interactive maps.  
+**Tech:** Python, Flask, SQLite, JavaScript, Folium
+
+### 📈 Stock Market Visualization & Prediction  
+Desktop app for analyzing Indian stock data and forecasting trends using ARIMA & Prophet models.  
+**Tech:** Python, scikit-learn, Prophet, Alpha Vantage API, Matplotlib
+
+### 💰 Secure Expense Tracker & Banking System  
+A finance management tool with login, tracking, and dynamic data visualization.  
+**Tech:** Python, Tkinter, CSV, Matplotlib
+
+### ☁️ Cloud-Based Note Keeper  
+Serverless CRUD notes app hosted on AWS S3 using Lambda, API Gateway, and DynamoDB.  
+**Tech:** JavaScript, AWS, HTML/CSS
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 🎯 Leadership & Involvement
 
+- 👨‍💻 Leading a 4-member Final Year Project team using agile and Git-based workflows  
+- 🧠 Participated in national hackathons — rapid prototyping, tech stack design  
+- 🎤 University-level debater with skills in public speaking & argumentation  
+- 🎓 Contributor to CS department showcases and peer learning events  
+
+---
+
+## 📫 Let's Connect
+
+📧 [abhaypatilwork@gmail.com](mailto:abhaypatilwork@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhaypatil014/)  
+💻 [GitHub](https://github.com/abhaypatil-code)
+
+---
+
+_Thanks for stopping by! 🚀 Feel free to check out my repositories and drop a message if you'd like to collaborate._
