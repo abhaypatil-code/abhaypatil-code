@@ -1,91 +1,84 @@
-<h1 align="center">Hi, I'm Abhay Patil 👋</h1>
-<p align="center">
-  <em>Software Developer | Cloud Enthusiast | AI/ML Explorer</em><br/>
-  <a href="mailto:abhaypatilwork@gmail.com">📧 abhaypatilwork@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/abhaypatil014/">💼 LinkedIn</a> • 
-  <a href="https://github.com/abhaypatil-code">💻 GitHub</a>
-</p>
+# Hi there, I'm Abhay Patil! 👋
+
+### 🚀 Aspiring Software Developer | AI/ML Enthusiast | Full Stack Engineer
+
+I am a final-year **Computer Science & Engineering** student at **JSS Academy of Technical Education, Bengaluru**, with a minor in **Economics and Finance**. I specialize in building production-grade AI systems, scalable web applications, and secure cloud architectures.
+
+- 🔭 **I’m currently working on:** Advanced RAG architectures and Agentic AI workflows.
+- 💼 **Experience:** Former Project Intern at **Indian Institute of Science (IISc)**, where I built AI agents and full-stack apps.
+- 🌱 **I’m currently learning:** Advanced System Design and Financial Engineering.
+- ⚡ **Fun fact:** I combine code with economics to build smarter, data-driven solutions.
 
 ---
 
-### 🧑‍💻 About Me
+## 🛠️ Tech Stack
 
-I'm an aspiring software developer currently pursuing a B.E. in Computer Science & Engineering at JSS Academy of Technical Education, Bengaluru, with a minor in Economics and Finance. My focus lies in building impactful software solutions using full-stack technologies, cloud infrastructure, and machine learning models.
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
----
+**AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Tech Stack
-
-| Domain                  | Technologies                                                                 |
-|-------------------------|------------------------------------------------------------------------------|
-| **Languages**           | `Python`, `C++`, `Java`, `JavaScript`, `C`                                   |
-| **Web Development**     | `React.js`, `Node.js`, `Express.js`, `HTML`, `CSS`, `AJAX`                   |
-| **Databases & Tools**   | `MySQL`, `MongoDB`, `Docker`, `Git`, `GitHub`, `VS Code`, `Postman`          |
-| **Cloud & DevOps**      | `AWS (S3, Lambda, API Gateway, DynamoDB, CloudFront, Step Functions)`        |
-| **ML & GenAI**          | `scikit-learn`, `LangChain`, `Transformers`, `Hugging Face`, `Word2Vec`, `LLMs` |
-| **Visualization**       | `Matplotlib`, `Folium`, `Tkinter`                                            |
-
----
-
-### 🚀 Featured Projects
-
-Here are some of the projects I’ve built and actively maintained. Each project focuses on real-world applicability, clean architecture, and open-source collaboration.
-
-#### 🔹 [Geo-Tagged Incident Reporting System](https://github.com/abhaypatil-code/geo-tagged-incident-reporting)
-> Web-based platform to report and visualize real-time geo-tagged incidents on a dynamic map interface  
-🛠️ **Tech Stack**: Python, Flask, SQLite, Folium, JavaScript  
-📌 **Features**: Admin dashboard, live map updates, secure user auth
+**Web & Cloud**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-#### 🔹 [Stock Market Visualization & Prediction Tool](https://github.com/abhaypatil-code/stock-market-predictor)
-> A desktop tool to analyze and forecast Indian stock data using ARIMA and Prophet  
-🛠️ **Tech Stack**: Python, scikit-learn, Prophet, Alpha Vantage API, Matplotlib  
-📌 **Features**: Real-time data integration, prediction visualizations, portfolio simulation
+## 📂 Featured Projects
+
+### 🤖 [HRAssistant-Agent](https://github.com/abhaypatil-code/HRAssistant-Agent)
+**AI-Powered HR Copilot**
+* Designed a modular RAG architecture using **LangChain** and **FAISS** for semantic search over policy documents.
+* Features structured employee-data lookup and conversational routing.
+* *Tech:* Python, LangChain, FAISS, LLMs.
+
+### ⚖️ [SpecterSummarizer](https://github.com/abhaypatil-code/SpecterSummarizer)
+**Legal Judgment Summarization Engine**
+* Fine-tuned **T5 Transformer** models on legal datasets to produce abstractive summaries.
+* Implemented **Optuna** for hyperparameter optimization and mixed-precision training.
+* *Tech:* PyTorch, T5, NLP, Optuna.
+
+### 🏥 [MedML_Diabetes_Liver_Heart_MentalHealth](https://github.com/abhaypatil-code/MedML_Diabetes_Liver_Heart_MentalHealth)
+**Multi-Condition Disease Prediction System**
+* End-to-end ML pipelines for predicting Diabetes, Liver, Heart, and Mental Health conditions.
+* utilized **SMOTE** for imbalance mitigation and **XGBoost/LightGBM** for high-accuracy inference.
+* *Tech:* Python, Scikit-learn, XGBoost.
+
+### 🛡️ [Brute-Force-Detection](https://github.com/abhaypatil-code/Brute-Force-Detection-using-failed-login-analysis)
+**Security Dashboard & Prevention System**
+* A multi-layer detection system with IP risk scoring and automated ban enforcement.
+* Includes a real-time dashboard and attack-simulation module.
+* *Tech:* Python, Flask, Security Primitives.
+
+### 🚀 [NASA-Turbojet-BigData-Analysis](https://github.com/abhaypatil-code/NASA-Turbojet-BigData-Analysis-HDFS-Hive)
+**Big Data Analysis Pipeline**
+* Analysis of turbojet engine data utilizing the Hadoop ecosystem.
+* *Tech:* HDFS, Hive, Python.
 
 ---
 
-#### 🔹 [Secure Expense Tracker and Banking System](https://github.com/abhaypatil-code/secure-expense-tracker)
-> Personal finance tracker with encrypted access and graphical reports  
-🛠️ **Tech Stack**: Python, Tkinter, CSV, Matplotlib  
-📌 **Features**: Auth system, chart-based analysis, lightweight design
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaypatil-code&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypatil-code&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
-#### 🔹 [Cloud-Based Note Keeper](https://github.com/abhaypatil-code/cloud-note-keeper)
-> Serverless CRUD-based note-taking app built on AWS  
-🛠️ **Tech Stack**: AWS Lambda, S3, DynamoDB, API Gateway, HTML/CSS, JS  
-📌 **Features**: Full serverless architecture, role-based IAM access
+## 📫 Connect with Me
 
----
-
-### 🏆 Highlights
-
-- 📚 Minor in **Economics & Finance** to complement CS expertise
-- 👨‍💻 Led a **4-member final year project team**, managing sprints and Git-based workflows
-- 🧠 National-level hackathon contributor — from ideation to MVP under pressure
-- 🎤 University-level **debater and presenter** with a flair for clear technical communication
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaypatil-code&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaypatil-code&theme=radical" width="49%"/>
-</p>
-
----
-
-### 📫 Let’s Connect
-
-If you’re working on something exciting or want to collaborate, feel free to reach out.
-
-- 💌 Email: [abhaypatilwork@gmail.com](mailto:abhaypatilwork@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/abhaypatil014](https://www.linkedin.com/in/abhaypatil014/)
-- 🌐 Portfolio (coming soon): `abhaypatil.dev`
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abhaypatil014)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abhaypatilwork@gmail.com)
