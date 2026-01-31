@@ -1,14 +1,11 @@
 # Hi there, I'm Abhay Patil! 👋
 
-### 🚀 Aspiring Software Developer | AI/ML Enthusiast | Full Stack Engineer
+### 🚀 AI/ML Engineer and Data Scientist | Currently Learning MERN Stack 
 
 I am a final-year **Computer Science & Engineering** student at **JSS Academy of Technical Education, Bengaluru**, with a minor in **Economics and Finance**. I specialize in building production-grade AI systems, scalable web applications, and secure cloud architectures.
 
-- 🔭 **I’m currently working on:** Advanced RAG architectures and Agentic AI workflows.
-- 💼 **Experience:** Former Project Intern at **Indian Institute of Science (IISc)**, where I built AI agents and full-stack apps.
-- 🌱 **I’m currently learning:** Advanced System Design and Financial Engineering.
-- ⚡ **Fun fact:** I combine code with economics to build smarter, data-driven solutions.
-
+- 🔭 **I’m currently working on:** Advanced RAG architectures, Agentic AI workflows, LLM's Deployment
+- 💼 **Experience:** Former Project Intern at **Indian Institute of Science (IISc)**, where I built AI agents and full-stack apps.Currently Working as **AI Product Developer** at Rooman Techologies Pvt.LTD
 ---
 
 ## 🛠️ Tech Stack
