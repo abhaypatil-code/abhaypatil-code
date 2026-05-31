@@ -1,4 +1,4 @@
-# Hi there, I'm Abhay Patil! 👋
+# Hi there, I'm Abhay ! 👋
 
 ### 🚀 AI/ML Engineer and Data Scientist | Currently Learning MERN Stack 
 
